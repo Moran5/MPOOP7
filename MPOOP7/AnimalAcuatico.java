@@ -1,3 +1,4 @@
+package MPOOP7;
 public class AnimalAcuatico extends Animal{
     private int numeroAletas;
 

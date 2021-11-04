@@ -1,3 +1,4 @@
+package MPOOP7;
 public class AnimalAereo extends Animal{
     private int numeroAlas;
 

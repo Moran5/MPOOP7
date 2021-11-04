@@ -1,3 +1,7 @@
+package MPOOP7;
+/**
+ *@author Moran Duque, Jose Alejandro
+ */
 class Main {
   public static void main(String[] args) {
     Gerente gerente = new Gerente();

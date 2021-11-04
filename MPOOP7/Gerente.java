@@ -1,3 +1,4 @@
+package MPOOP7;
 public class Gerente extends Empleado{
     private int presupuesto;
 

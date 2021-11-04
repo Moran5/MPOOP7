@@ -1,3 +1,4 @@
+package MPOOP7;
 public class Ballena extends AnimalAcuatico{
     private int largo;
 

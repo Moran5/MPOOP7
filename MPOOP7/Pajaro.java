@@ -1,3 +1,4 @@
+package MPOOP7;
 public class Pajaro extends AnimalAereo{
     private String tipoPico;
 

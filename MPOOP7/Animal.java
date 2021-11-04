@@ -1,3 +1,4 @@
+package MPOOP7;
 public class Animal{
     private String nombre;
     private String lugarDeOrigen;

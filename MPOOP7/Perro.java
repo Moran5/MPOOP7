@@ -1,3 +1,4 @@
+package MPOOP7;
 public class Perro extends AnimalTerrestre{
     private String colorCollar;
 
